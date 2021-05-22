@@ -25,3 +25,5 @@ I have over 8 years of experience in software development; and I currently, work
 Apart from my mainstream career next generation space tech, artificial neural networks & behavioral patterns, star gazing, photography and history invoke interest. I am always on the lookout for solving challenging real-world problems.
 
 You can find out more about me and my work on [my website](https://www.roydondsouza.com/?utm_source=github&utm_medium=cpc&utm_campaign=profile_referral) or [LinkedIn](https://www.linkedin.com/in/roydondsouza/).
+
+![](https://komarev.com/ghpvc/?username=roydondsouza)
