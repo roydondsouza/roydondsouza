@@ -26,4 +26,4 @@ Apart from my mainstream career next generation space tech, artificial neural ne
 
 You can find out more about me and my work on [my website](https://www.roydondsouza.com/?utm_source=github&utm_medium=cpc&utm_campaign=profile_referral) or [LinkedIn](https://www.linkedin.com/in/roydondsouza/).
 
-![](https://komarev.com/ghpvc/?username=roydondsouza)
+![](https://hit.yhype.me/github/profile?user_id=8610709)
