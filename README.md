@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a full-stack web developer based in Bengaluru, primarily developing high availability backends systems and interactive applications for the web and mobile platforms.
+I'm a full-stack web developer based in Mangalore (India), primarily developing high availability backends systems and interactive applications for the web and mobile platforms.
 
 Having worked extensively in Cards & Payment Processors, Blockchain & Cryptocurrencies, Digital Lending, Content Management Systems, Digital Wallet Platforms, E-Commerce Platforms, Ad Targeting & Reporting Platforms, Customer Relationship Management Software and Human Resource Information Systems
 
