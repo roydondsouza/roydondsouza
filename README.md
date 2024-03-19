@@ -20,7 +20,7 @@ I'm a full-stack web developer based in Mangalore (India), primarily developing 
 
 Having worked extensively in Cards & Payment Processors, Blockchain & Cryptocurrencies, Digital Lending, Content Management Systems, Digital Wallet Platforms, E-Commerce Platforms, Ad Targeting & Reporting Platforms, Customer Relationship Management Software and Human Resource Information Systems
 
-I have over 9 years of experience in software development; and I currently, work for [InVideo](https://invideo.io) as a Senior Backend Engineer.
+I have over 10 years of experience in software development; and I currently, work for [InVideo](https://invideo.io) as a Senior Software Engineer.
 
 Apart from my mainstream career next generation space tech, artificial neural networks & behavioral patterns, star gazing, photography and history invoke interest. I am always on the lookout for solving challenging real-world problems.
 
