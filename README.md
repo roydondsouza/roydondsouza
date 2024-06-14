@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a full-stack web developer based in Mangalore (India), primarily developing high availability backends systems and interactive applications for the web and mobile platforms.
+I'm a full-stack web developer based in Mangalore (India), specializing in developing high-availability backends systems and interactive applications for web and mobile platforms.
 
-Having worked extensively in Cards & Payment Processors, Blockchain & Cryptocurrencies, Digital Lending, Content Management Systems, Digital Wallet Platforms, E-Commerce Platforms, Ad Targeting & Reporting Platforms, Customer Relationship Management Software and Human Resource Information Systems
+I have extensive experience in various domains, including Cards & Payment Processors, Blockchain & Cryptocurrencies, Digital Lending, Content Management Systems, Digital Wallet Platforms, E-Commerce Platforms, Ad Targeting & Reporting Platforms, Customer Relationship Management Software and Human Resource Information Systems
 
-I have over 10 years of experience in software development; and I currently, work for [InVideo](https://invideo.io) as a Senior Software Engineer.
+With over 10 years of experience in software development, I currently, work as a Senior Backend Engineer at [InVideo AI](https://invideo.io).
 
-Apart from my mainstream career next generation space tech, artificial neural networks & behavioral patterns, star gazing, photography and history invoke interest. I am always on the lookout for solving challenging real-world problems.
+Beyond my professional life, I am passionate about next-generation space technology, artificial neural networks, and behavioral patterns. I also enjoy star gazing, photography, and history. I am always eager to tackle challenging real-world problems.
 
 You can find out more about me and my work on [my website](https://www.roydondsouza.com/?utm_source=github&utm_medium=cpc&utm_campaign=profile_referral) or [LinkedIn](https://www.linkedin.com/in/roydondsouza/).
 
