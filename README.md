@@ -20,9 +20,9 @@ I'm a full-stack web developer based in Mangalore (India), specializing in devel
 
 I have extensive experience in various domains, including Cards & Payment Processors, Blockchain & Cryptocurrencies, Digital Lending, Content Management Systems, Digital Wallet Platforms, E-Commerce Platforms, Ad Targeting & Reporting Platforms, Customer Relationship Management Software and Human Resource Information Systems
 
-With over 10 years of experience in software development, I currently, work as a Senior Backend Engineer at [InVideo AI](https://invideo.io).
+With over 11 years of experience in software development, I currently, work as a Senior Backend Engineer at [InVideo AI](https://invideo.io).
 
-Beyond my professional life, I am passionate about next-generation space technology, artificial neural networks, and behavioral patterns. I also enjoy star gazing, photography, and history. I am always eager to tackle challenging real-world problems.
+Beyond my professional life, I am passionate about next-generation space technology, artificial neural networks, behavioral patterns and [leather crafting](https://sneakyleather.com). I also enjoy star gazing, photography, and history. I am always eager to tackle challenging real-world problems.
 
 You can find out more about me and my work on [my website](https://www.roydondsouza.com/?utm_source=github&utm_medium=cpc&utm_campaign=profile_referral) or [LinkedIn](https://www.linkedin.com/in/roydondsouza/).
 
